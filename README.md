@@ -1,3 +1,5 @@
+<a id="laddercloud-vpn-review"></a>
+
 # 梯子云(LadderCloud)VPN官网注册地址｜IEPL专线测速｜价格与套餐详解
 
 ![梯子云(LadderCloud)](https://i.eoht.net/airport/laddercloud_logo.webp "梯子云(LadderCloud)")
@@ -12,8 +14,10 @@
 > - **核心特点**：全线 IEPL 专线与 VLESS 协议，提供自研全平台 App，同时兼容主流通用订阅客户端。
 > - **使用场景**：支持 Netflix、Disney+、YouTube、ChatGPT、Claude 等流媒体与 AI 服务；常规套餐最高提供 1.6TB/月，另有独享专线方案。
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/laddercloud#laddercloud-vpn-plans) · [查看测速记录](https://eoht.net/serve/airport/laddercloud#laddercloud-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> [查看套餐与优惠码](#laddercloud-vpn-plans) · [查看测速记录](#laddercloud-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
+
+<a id="laddercloud-official-website"></a>
 
 ## 梯子云(LadderCloud)VPN官网注册地址（当前可用｜套餐价格｜真实测速）
 
@@ -23,6 +27,8 @@
 
 **本页汇总梯子云(LadderCloud)机场套餐价格、双节优惠码、IEPL 专线、自研客户端、流媒体与 AI 支持及测速记录；价格和节点状态可能调整，购买前请以服务商结算页信息为准。**
 
+<a id="laddercloud-airport-overview"></a>
+
 ## 梯子云(LadderCloud)VPN是什么？适合哪些人使用
 
 **梯子云(LadderCloud)** 的服务介绍以全线企业级 **IEPL 专线 + VLESS 协议**为核心，提供自研全平台 App 与通用订阅两种使用方式。对于重视上手便利和线路质量的用户，可以先月付体验，再根据常用节点表现选择更适合的付款周期。
@@ -31,6 +37,8 @@
 - **多地区节点**：服务介绍列有全球 **60+ 节点及 2Gbps+ 带宽冗余**，测速图覆盖香港、台湾、日本、新加坡和美国。带宽冗余属于服务端容量描述，不是每位用户的独享速率。
 - **流媒体与 AI**：服务介绍列有原生 IP 节点及 Netflix、Disney+、ChatGPT、Claude 等支持，套餐介绍另列有 YouTube 场景；实际体验取决于所选节点、平台规则和本地网络。
 - **按需求选流量**：年度保活提供 60GB/月，常规套餐覆盖 125GB、350GB、750GB 和 1.6TB/月，另有附带独享公网 IP 的私人定制专线。
+
+<a id="laddercloud-vpn-plans"></a>
 
 ## 梯子云(LadderCloud)VPN价格与套餐对比
 
@@ -56,6 +64,8 @@
 | **云端独享 · 私人定制专线** | **500GB** | ¥680 | — | — | [立即购买](https://eoht.net/serve/airport/laddercloud) |
 
 私人定制专线的套餐说明列有独享公网 IP、独立带宽资源与一对一技术维护，适合需要固定业务出口的 TikTok 直播、独立站和跨境电商等场景。套餐页标注下单后约 **2–3 个工作日交付**，购买前请确认地区、资源与交付安排。
+
+<a id="laddercloud-speed-test"></a>
 
 ## 梯子云(LadderCloud)VPN真实测速与流媒体、AI 支持
 
